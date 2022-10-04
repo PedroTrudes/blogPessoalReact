@@ -22,22 +22,3 @@ function Login(){
 
 export default Login;
 
-
-/*
-<Grid container spacing={0} justifyContent='center' alignItems='center' direction='column'>
-        <Grid item xs={6} justifyContent='center' alignItems='center'>
-          <form noValidate autoComplete="off" className='formLog'>
-            <TextField id="standard-basic" label="Standard" />
-            <TextField id="filled-basic" label="Filled" variant="filled" />
-            <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-          </form>
-        </Grid>
-        <Grid item xs={6} justifyContent='center' direction='column'>
-          <form noValidate autoComplete="off" >
-            <TextField id="standard-basic" label="Standard" />
-            <TextField id="filled-basic" label="Filled" variant="filled" />
-            <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-          </form>
-        </Grid>
-      </Grid>
-*/
